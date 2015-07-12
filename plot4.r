@@ -1,5 +1,5 @@
 #load data
-setwd("D:/dev/coursera/exploratory data analysis")
+#setwd("D:/dev/coursera/exploratory data analysis")
 getwd()
 #[1] "D:/dev/coursera/exploratory data analysis"
 library(dplyr)
